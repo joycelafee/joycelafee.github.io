@@ -1,4 +1,4 @@
-## [Joyce Wang](https://github.com/joycelafee/joycelafee.github.io)    [Research](https://github.com/joycelafee/joycelafee.github.io)    [CV](https://github.com/joycelafee/joycelafee.github.io)
+## [Joyce Wang](https://github.com/joycelafee/joycelafee.github.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Research](https://github.com/joycelafee/joycelafee.github.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CV](https://github.com/joycelafee/joycelafee.github.io)
 
 Find my cv [here](https://uchicago.box.com/s/zl027bftrn4c3n7avkmc5tx9tucmzbj2)
 You can use the [editor on GitHub](https://github.com/joycelafee/joycelafee.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
