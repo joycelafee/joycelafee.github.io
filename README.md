@@ -1,6 +1,6 @@
 ## Joyce Wang
 
-Find my cv [here](https://github.com/joycelafee/joycelafee.github.io/blob/main/documents/Curriculum_Vitae_Joyce_Wang.pdf)
+Find my cv [here](https://github.com/joycelafee/joycelafee.github.io/blob/14e3f6a819e40bf41eb047f1b613ec1054625c7c/documents/Curriculum_Vitae_Joyce_Wang.pdf)
 You can use the [editor on GitHub](https://github.com/joycelafee/joycelafee.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
