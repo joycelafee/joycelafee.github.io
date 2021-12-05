@@ -7,18 +7,3 @@ I am an aspiring researcher in the field of innovation economics with a bachelor
 
 <img src="headshot.jpg" alt="Image" width="400"/>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-
-1. Numbered
-
-
-**Bold** and _Italic_ and `Code` text
-```
-
