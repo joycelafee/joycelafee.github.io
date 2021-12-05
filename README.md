@@ -3,8 +3,9 @@
 
 
 ### Introduction
-I am an aspiring researcher.
-![Image](headshot.jpg)
+I am an aspiring researcher in the field of innovation economics with a bachelor degree in bioresource engineering and a master of arts in public policy analysis.
+
+<img src="headshot.jpg" alt="Image" width="400"/>
 
 ```markdown
 Syntax highlighted code block
