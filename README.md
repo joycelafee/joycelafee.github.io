@@ -1,6 +1,6 @@
 ## Joyce Wang
 
-## [Home](https://joycelafee.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Research](https://github.com/joycelafee/joycelafee.github.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CV](https://uchicago.box.com/s/zl027bftrn4c3n7avkmc5tx9tucmzbj2)
+## [Home](https://joycelafee.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Research](https://joycelafee.github.io/research/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CV](https://uchicago.box.com/s/zl027bftrn4c3n7avkmc5tx9tucmzbj2)
 
 
 ### Introduction
